@@ -52,3 +52,55 @@ a {
     list-style-type: none;
     color: white;
 }
+/* This code for the form */
+#sign-up-text {
+    color: rgb(0, 0, 0);
+    text-align: left;
+    margin-left: 15px;
+}
+#section-s {
+    margin: 30px 500px;
+    display: flexbox;
+    background-color: rgb(221, 216, 216);
+    text-justify: content;
+    width: 350px;
+    text-align: center;
+    height: 310px;
+    border: 1px solid rgb(221, 216, 216);
+    border-radius: 10px;
+    color: rgb(73, 68, 68)
+}
+#temail {
+    border: 2px solid blue;
+    height: 25px;
+    border-radius: 10px;
+    color: rgb(77, 69, 69);
+} 
+#lemail {
+    font-size: 18px;
+} 
+
+#pwd {
+    border: 2px solid blue;
+    height: 25px;
+    border-radius: 10px;
+    color: rgb(77, 69, 69);
+} 
+#tpwd {
+    font-size: 18px;
+} 
+#button-sub {
+    background-color: rgb(20, 20, 207);
+    width: 70px;
+    height: 28px;
+    border: 1px solid rgb(20, 20, 207);
+    border-radius: 5px;
+    color: rgb(233, 228, 228);
+}
+.already {
+    margin-top: 35px;
+    margin-bottom: 4px;;
+}
+#click {
+    color: blue;
+}
